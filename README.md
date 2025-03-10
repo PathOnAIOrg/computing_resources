@@ -19,5 +19,4 @@
 
 | Name | Website | Details |
 |------|---------|---------|
-| The AWS Nonprofit Credit Program
- | [aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/) | The AWS Nonprofit Credit Program provides access to up to $5,000 USD in AWS Promotional Credit, helping to offset costs for nonprofits associated with implementing cloud-based solutions. |
+| The AWS Nonprofit Credit Program| [aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/) | The AWS Nonprofit Credit Program provides access to up to $5,000 USD in AWS Promotional Credit, helping to offset costs for nonprofits associated with implementing cloud-based solutions. |
