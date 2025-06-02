@@ -14,6 +14,7 @@
 | AWS Cloud Credits for Research | [aws.amazon.com/research-credits](https://aws.amazon.com/government-education/research-and-technical-computing/cloud-credit-for-research/) | Cloud credits for academic researchers |
 | Microsoft Azure for Research | [microsoft.com/en-us/azure-academic-research/](https://www.microsoft.com/en-us/azure-academic-research/) | Cloud computing grants for academic research |
 | Modal for Startups & Academics | [modal.com](https://modal.com/) | Startups & academic labs can get up to $50k free compute credits on Modal. These credits can be used towards all compute resources, including in-demand GPU types. |
+| Lighting AI for students & Academics | [lightningai.com](https://lightning.ai/) | Gives 15 monthly credits for free (around 35 hours of GPU per month , detailed pricing for gpu hour wise credits at https://lightning.ai/pricing/) , instant verification with education mail |
 
 ## For Open Source/ Non-Profit
 
